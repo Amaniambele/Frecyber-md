@@ -103,7 +103,7 @@ if scan qr is not working please try using pairing code i am currently working o
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://frecyber-md-sit-b0f2716e02f9.herokuapp.com/qr) or server 2 qr code
     <br>
-<a href="https://frecyber-md-sit-b0f2716e02f9.herokuapp.com/qr><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
+<a href="https://frecyber-md-sit-b0f2716e02f9.herokuapp.com/qr" ><img title="SCAN QR SERVER 2" src="https://img.shields.io/badge/GET SESSION-h?color=darkblue&style=for-the-badge&logo=msi"></a>
 2.  [`PARING CODE SITE`](https://frecyber-md-sit-b0f2716e02f9.herokuapp.com/). 𝙤𝙧 𝙨𝙚𝙧𝙫𝙚𝙧 2 𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚
     <br>
 <a href="https://frecyber-md-sit-b0f2716e02f9.herokuapp.com/pair"><img title="𝙋𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2" src="https://img.shields.io/badge/𝙥𝙖𝙞𝙧𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙨𝙚𝙧𝙫𝙚𝙧 2-h?color=green&style=for-the-badge&logo=msi"></a>

@@ -126,7 +126,7 @@ smd({
   pattern: "chat",
   desc: "chat with an AI",
   category: "ai",
-  use: "<Hii, frecyber-tech>",
+  use: "<Hii, venocyber-tech>",
   filename: __filename
 }, async (_0x1c0160, _0x482db1) => {
   try {
@@ -146,7 +146,7 @@ smd({
     try {
       let _0x557719 = _0x302ad5 ? _0x302ad5 : bot.reply_text;
       if (!_0x557719) {
-        return man.reply("Provide me a query ex Who is Frecyber");
+        return man.reply("Provide me a query ex Who is Suhail");
       }
       const _0x50c8d3 = await fetch("https://aemt.me/openai?text=" + _0x557719);
       const _0x14c9d6 = await _0x50c8d3.json();
@@ -175,7 +175,7 @@ smd({
   try {
     let _0x1b0897 = _0x3f3887 ? _0x3f3887 : _0x42b3b8.reply_text;
     if (!_0x1b0897) {
-      return _0x42b3b8.reply("Provide me a query ex Who is Frecyber");
+      return _0x42b3b8.reply("Provide me a query ex Who is Suhail");
     }
     const _0x4c275e = await fetch("https://aemt.me/openai?text=" + _0x1b0897);
     const _0x4743c3 = await _0x4c275e.json();
@@ -677,7 +677,7 @@ smd({
       if (_0x2dfb59.length < 3) {
         return;
       }
-      if (_0x2acf30.reply_text.includes("VENOCYBER-MD• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[0].includes("FRECYBER-MD• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[2].includes("Msg_Id")) {
+      if (_0x2acf30.reply_text.includes("FRECYBER-MD• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[0].includes("FRECYBER-MD• ᴀɴɴᴏɴʏᴍᴏᴜs ᴍsɢ") && _0x2dfb59[2].includes("Msg_Id")) {
         let _0x1b0d01 = "" + _0x2dfb59[2].replace("*Msg_Id:* ", "").trim();
         let _0x2ecd2a = astro_patch_AnonyMsg[_0x1b0d01];
         if (!_0x2ecd2a) {
@@ -728,7 +728,7 @@ smd({
   pattern: "aitts",
   desc: "Text to Voice Using Eleven Lab Ai",
   category: "ai",
-  use: "<Hii, frecyber-tech>",
+  use: "<Hii, Frecyber-tech>",
   filename: __filename
 }, async (_0x1a01af, _0x1ac85a) => {
   await aitts(_0x1a01af, _0x1ac85a || _0x1a01af.reply_text);

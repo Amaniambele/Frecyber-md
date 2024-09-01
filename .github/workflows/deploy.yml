@@ -1,4 +1,4 @@
-name: Node.js 15
+name: Node.js 16
 
 on:
   push:

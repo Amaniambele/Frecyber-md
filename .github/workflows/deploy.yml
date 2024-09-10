@@ -1,4 +1,4 @@
-name: Node.js36
+name: Node.js37
 
 on:
   push:
